@@ -3,7 +3,7 @@ import { BrowserRouter, Route, Routes} from "react-router-dom"
 import Restaurants from "../components/Restaurants/Restaurants"
 import ResItem from "../components/RestautantItem/ResItems"
 import NotPage from "../components/Pages/NotPage"
-import PageLayout from "../layout/PAgeLayout"
+import PageLayout from "../layout/PageLayout"
 export default function App(){
   return <>
     <BrowserRouter>
